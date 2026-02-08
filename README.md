@@ -28,9 +28,9 @@ Representación en JSON de un carrito, como se utiliza para POST, PUT, y DELETE:
 
 ```json
 {
-    "idCarrito": "int",
-    "idArticulo": "int",
-    "descripcion": "String",
-    "unidades": "int",
-    "precioFinal": "double"
+    "idCarrito": 1,
+    "idArticulo": 3,
+    "descripcion": "balón",
+    "unidades": 1,
+    "precioFinal": 14.99
 }
